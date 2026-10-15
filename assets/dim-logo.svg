@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 88" role="img" aria-labelledby="title desc">
+  <title id="title">Digital It Move</title><desc id="desc">Digital Marketing and IT Solutions</desc>
+  <defs><linearGradient id="blue" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#1248b6"/><stop offset="1" stop-color="#14a9f4"/></linearGradient></defs>
+  <g transform="translate(4 5)">
+    <path d="M13 7h15l-4 13H9zM2 25h15l-4 13H0zM34 23h15l-4 13H30z" fill="#1387e8"/>
+    <path d="M48 10h25c19 0 34 14 34 33 0 7-2 13-5 18L82 75c9-7 15-16 15-26 0-13-10-22-24-22H45z" fill="url(#blue)"/>
+    <path d="M9 43h14l-9 32H0z" fill="#0d1934"/>
+    <path d="M29 43h12l-3 15 12-10 8 8 17-15-3 16-15 11-8-7-15 13H24z" fill="url(#blue)"/>
+    <path d="M29 77c30-3 53-15 70-39l-7-2 19-8-3 20-4-5C84 70 58 82 27 84z" fill="#167be4"/>
+  </g>
+  <text x="126" y="57" font-family="Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="-1.5" fill="#0d1934">Digital <tspan fill="#0879e9">It</tspan> Move</text>
+</svg>
